@@ -1,0 +1,137 @@
+[
+  {
+    "id": 2,
+    "title": "Ivysaur",
+    "description": "Es un sapo más grande",
+    "price": 2002,
+    "img": "Sin imagen",
+    "code": "abc12322",
+    "stock": 252,
+    "category": "Planta",
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "id": 3,
+    "title": "Venusaur",
+    "description": "Es un REMIL sapo",
+    "price": 2003,
+    "img": "Sin imagen",
+    "code": "abc12333",
+    "stock": 253,
+    "category": "Planta",
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "id": 4,
+    "title": "Charmander",
+    "description": "Es un lagarto",
+    "price": 2004,
+    "img": "Sin imagen",
+    "code": "abc12334",
+    "stock": 253,
+    "category": "Fuego",
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "id": 5,
+    "title": "Charmeleon",
+    "description": "Es un lagarto malo",
+    "price": 2004,
+    "img": "Sin imagen",
+    "code": "abc12335",
+    "stock": 253,
+    "category": "Fuego",
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "id": 6,
+    "title": "Charizard",
+    "description": "Es un dragon",
+    "price": 2004,
+    "img": "Sin imagen",
+    "code": "abc12336",
+    "stock": 253,
+    "category": "Fuego",
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "id": 7,
+    "title": "Squirtle",
+    "description": "Es na tortuga",
+    "price": 2004,
+    "img": "Sin imagen",
+    "code": "abc12337",
+    "stock": 253,
+    "category": "Agua",
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "id": 8,
+    "title": "Wartortle",
+    "description": "Es una tortuga mas fachera",
+    "price": 2004,
+    "img": "Sin imagen",
+    "code": "abc12338",
+    "stock": 253,
+    "category": "Agua",
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "id": 9,
+    "title": "Blastoise",
+    "description": "Es una mega-tortuga con cañones de la NASA",
+    "price": 2004,
+    "img": "Sin imagen",
+    "code": "abc12339",
+    "stock": 253,
+    "category": "Agua",
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "id": 10,
+    "title": "Caterpie",
+    "description": "Es un gusano bueno para nada",
+    "price": 2004,
+    "img": "Sin imagen",
+    "code": "abc12340",
+    "stock": 253,
+    "category": "Planta",
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "id": 11,
+    "title": "methapod",
+    "description": "un pedazo de piedra tiene más actividad que esta cosa...",
+    "price": 2005,
+    "img": "Sin imagen",
+    "code": "abc123423",
+    "stock": 253
+  },
+  {
+    "id": 12,
+    "title": "methapod tribilin!",
+    "description": "un pedazo de piedra tiene más actividad que esta cosa...",
+    "price": 2005,
+    "img": "Sin imagen",
+    "code": "abc123432323",
+    "stock": 253
+  },
+  {
+    "id": 13,
+    "title": "Bulbasaur666",
+    "description": "Es un sapo",
+    "price": 2001,
+    "img": "Sin imagen",
+    "code": "abc12311",
+    "stock": 251
+  }
+]
